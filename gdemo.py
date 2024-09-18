@@ -1,1 +1,1 @@
-print("we are wroking on git with jenkins")
+print("we are wroking on git with jenkins version7")
